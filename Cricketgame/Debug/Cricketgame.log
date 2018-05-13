@@ -1,0 +1,307 @@
+﻿Build started 4/4/2014 2:43:51 PM.
+     1>Project "c:\Users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Cricketgame\Cricketgame.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Cricketgame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cricketgame.cpp
+         cricketgame.cpp
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(9): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(35): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(41): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(50): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(53): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(57): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(66): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(77): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(87): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(97): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(107): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(117): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(127): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(137): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(148): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(158): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(168): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(178): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(189): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(203): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(210): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(219): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(230): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(240): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(250): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(260): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(270): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(280): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(290): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(301): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(311): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(321): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(331): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(342): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(355): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(374): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(379): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(388): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(399): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(409): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(419): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(429): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(439): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(449): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(459): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(470): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(480): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(490): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(500): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(511): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(524): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(527): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(532): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(541): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(552): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(562): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(572): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(582): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(592): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(602): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(612): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(623): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(633): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(643): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(653): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(664): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(674): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(678): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(696): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(703): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(708): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(717): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(728): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(738): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(748): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(758): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(768): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(778): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(788): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(799): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(809): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(819): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(829): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(840): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(854): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(861): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(870): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(881): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(891): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(901): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(911): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(921): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(931): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(941): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(952): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(962): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(972): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(982): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(993): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1006): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1025): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1027): warning C4129: 'E' : unrecognized character escape sequence
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1028): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1033): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1042): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1053): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1063): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1073): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1083): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1093): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1103): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1113): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1124): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1134): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1144): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1154): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1165): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1178): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1181): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1186): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1195): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1206): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1226): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1236): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1246): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1256): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1266): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1277): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1287): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1297): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1307): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1318): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1328): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1332): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\tanvir ahmed\documents\visual studio 2010\projects\cricketgame\cricketgame\cricketgame.cpp(1414): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Cricketgame.exe.embed.manifest.res" Debug\Cricketgame_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Cricketgame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.lib" /MACHINE:X86 Debug\Cricketgame.exe.embed.manifest.res
+         Debug\cricketgame.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Cricketgame.exe.embed.manifest" /manifest Debug\Cricketgame.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Cricketgame.exe.embed.manifest.res" Debug\Cricketgame_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Cricketgame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.lib" /MACHINE:X86 Debug\Cricketgame.exe.embed.manifest.res
+         Debug\cricketgame.obj
+         Cricketgame.vcxproj -> c:\users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Debug\Cricketgame.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Cricketgame.unsuccessfulbuild".
+         Touching "Debug\Cricketgame.lastbuildstate".
+     1>Done Building Project "c:\Users\tanvir ahmed\documents\visual studio 2010\Projects\Cricketgame\Cricketgame\Cricketgame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
